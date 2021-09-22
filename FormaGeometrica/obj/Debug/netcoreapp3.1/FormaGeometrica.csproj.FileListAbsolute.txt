@@ -1,0 +1,14 @@
+C:\dev\FormaGeometrica\FormaGeometrica\bin\Debug\netcoreapp3.1\FormaGeometrica.exe
+C:\dev\FormaGeometrica\FormaGeometrica\bin\Debug\netcoreapp3.1\FormaGeometrica.deps.json
+C:\dev\FormaGeometrica\FormaGeometrica\bin\Debug\netcoreapp3.1\FormaGeometrica.runtimeconfig.json
+C:\dev\FormaGeometrica\FormaGeometrica\bin\Debug\netcoreapp3.1\FormaGeometrica.runtimeconfig.dev.json
+C:\dev\FormaGeometrica\FormaGeometrica\bin\Debug\netcoreapp3.1\FormaGeometrica.dll
+C:\dev\FormaGeometrica\FormaGeometrica\bin\Debug\netcoreapp3.1\FormaGeometrica.pdb
+C:\dev\FormaGeometrica\FormaGeometrica\obj\Debug\netcoreapp3.1\FormaGeometrica.csproj.AssemblyReference.cache
+C:\dev\FormaGeometrica\FormaGeometrica\obj\Debug\netcoreapp3.1\FormaGeometrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FormaGeometrica\FormaGeometrica\obj\Debug\netcoreapp3.1\FormaGeometrica.AssemblyInfoInputs.cache
+C:\dev\FormaGeometrica\FormaGeometrica\obj\Debug\netcoreapp3.1\FormaGeometrica.AssemblyInfo.cs
+C:\dev\FormaGeometrica\FormaGeometrica\obj\Debug\netcoreapp3.1\FormaGeometrica.csproj.CoreCompileInputs.cache
+C:\dev\FormaGeometrica\FormaGeometrica\obj\Debug\netcoreapp3.1\FormaGeometrica.dll
+C:\dev\FormaGeometrica\FormaGeometrica\obj\Debug\netcoreapp3.1\FormaGeometrica.pdb
+C:\dev\FormaGeometrica\FormaGeometrica\obj\Debug\netcoreapp3.1\FormaGeometrica.genruntimeconfig.cache
